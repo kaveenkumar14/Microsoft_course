@@ -1,0 +1,3 @@
+Ah, it sounds like you're talking about seeing the check mark/tick icons (or status icons like green check, red cross, blue dot, etc.) in File Explorer for your Git-tracked folders/files — a feature often referred to as "Git status overlay icons".
+
+These tick icons show the version control status of files (e.g., committed, modified, staged) and are typically provided by Git GUI tools like TortoiseGit, GitHub Desktop, or Sourcetree.
